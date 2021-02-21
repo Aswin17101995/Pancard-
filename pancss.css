@@ -1,0 +1,19 @@
+table,tr,td{
+    border-collapse: collapse;
+    border: 2px solid black;
+    background-color: palegoldenrod;
+}
+td{
+    font-weight: bold;
+}
+.noborder{
+    border:0px solid white;
+    border-collapse: collapse;
+}
+.heading{
+    background-color:rgb(102, 0, 0);
+    text-align: center;
+    font-style: bold;
+    color: white;
+   
+}
